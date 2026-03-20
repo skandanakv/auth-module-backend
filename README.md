@@ -23,8 +23,7 @@ A production-ready authentication system built with Node.js, Express, TypeScript
 Before you begin, ensure you have:
 - Node.js v16 or higher
 - npm or yarn
-- MongoDB Atlas account (free tier available)
-- Gmail account (for email testing)
+- MongoDB Atlas 
 
 ## 🚀 Installation
 
